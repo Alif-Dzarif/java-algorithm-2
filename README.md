@@ -1,6 +1,6 @@
 # Java Algorithm Task 2
 
-# TODO
+## TODO
 
 Buatlah Program Sederhana menggunakan Operator, statemen IF dengan kasus berikut:
 
